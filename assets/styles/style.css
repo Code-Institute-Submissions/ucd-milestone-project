@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+/*-----------------------------------------------NavBar*/
+
+.formula-one-logo{
+    background: url(../images/formula-one-logo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 200px;
+    width: 400px;
+}
+
+.navbar-brand img {
+        max-height: 100%;
+        height: 100%;
+        margin: 0 auto;
+}
+    
+.navbar-fixed-top{
+    border-width: 0;
+}
+
+/*-----------------------------------------------Header*/
+
+.welcome{
+    text-align: center;
+}
+
+
+/*-----------------------------------------------Colors*/
+
+body{
+    font-family: "Titillium Web",Helvetica,sans-serif;
+    font-weight: 300;
+    background-color: #fff;
+    color: #555555;
+    margin-top: 50px;
+}
+
+.navbar-background{
+    background-color: #ee0000;
+}
+
+.nav-text-color{
+    color: #fff;
+}
+
+/*-----------------------------------------------Special Stylings*/
+
+.uppercase{
+    text-transform: uppercase;
+}
