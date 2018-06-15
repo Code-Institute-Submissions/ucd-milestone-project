@@ -21,17 +21,47 @@
     border-width: 0;
 }
 
+.navbar-toggle .icon-bar{
+    background-color: white;
+}
+
+.navbar-nav li a:hover{
+    background-color: white;
+    color: #ee0000;
+}
+
 /*-----------------------------------------------Header*/
 
 .welcome{
     text-align: center;
 }
 
+/*-----------------------------------------------Section*/
+
+.section-text{
+    margin: 15px 15px;
+    font-size: 20px;
+}
+
+.index-image{
+    display: block;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 60%;
+}
+
+/*-----------------------------------------------Footer*/
+
+.fa{
+    font-size: 18px;
+}
+
 
 /*-----------------------------------------------Colors*/
 
 body{
-    font-family: "Titillium Web",Helvetica,sans-serif;
+    font-family: "Titillium Web", Helvetica, sans-serif;
     font-weight: 300;
     background-color: #fff;
     color: #555555;
