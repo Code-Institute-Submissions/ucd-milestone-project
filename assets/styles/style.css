@@ -51,6 +51,17 @@
     border-radius: 60%;
 }
 
+.circuit-images{
+    display: block;
+    width: 75%;
+    margin-left: 0px;
+    margin-right: auto;
+}
+
+.secondary-header{
+    text-align: center;
+}
+
 /*-----------------------------------------------Footer*/
 
 .fa{
@@ -80,4 +91,9 @@ body{
 
 .uppercase{
     text-transform: uppercase;
+}
+
+.info{
+    padding-left: 22px;
+    font-size: 20px;
 }
