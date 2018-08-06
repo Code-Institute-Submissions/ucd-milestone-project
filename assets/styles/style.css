@@ -54,6 +54,7 @@
 .circuit-images{
     display: block;
     width: 75%;
+    height: 170px;
     margin-left: 0px;
     margin-right: auto;
 }
