@@ -22,4 +22,7 @@ Simon Law, under guidance of Codeinstutes paramaters for the coursework
 * Videos from youtube and embedded code directly from the site
 * Circuit information directly from official Formula 1 website, linked in the footer of each page
 * Driver information and team information also from the same source as circuit information
-* Social media links take directly to the official pages of the sport 
+* Social media links take directly to the official pages of the sport
+* Wikipedia
+* Bootstrap
+* Google Fonts
