@@ -87,6 +87,11 @@
     font-size: 18px;
 }
 
+.footer-background{
+    background-color: #afafaf;
+    margin-top: 15px;
+}
+
 
 /*-----------------------------------------------Colors*/
 
@@ -105,6 +110,7 @@ body{
 .nav-text-color{
     color: #fff;
 }
+
 
 /*-----------------------------------------------Special Stylings*/
 
