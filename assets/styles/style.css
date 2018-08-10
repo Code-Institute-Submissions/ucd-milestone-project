@@ -52,7 +52,7 @@
     border-radius: 60%;
 }
 
-.circuit-images{
+.circuit-images, .team-images{
     display: block;
     width: 75%;
     height: 160px;
@@ -115,4 +115,12 @@ body{
 .info{
     padding-left: 22px;
     font-size: 20px;
+}
+
+/*-----------------------------------------------Media Queries*/
+
+@media (max-width:768px) {
+    .circuit-images, .team-images {
+        height: 50%;
+    }
 }
