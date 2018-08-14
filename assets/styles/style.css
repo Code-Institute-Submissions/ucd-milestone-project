@@ -60,6 +60,13 @@
     margin-right: auto;
 }
 
+.thanks-image{
+    display: block;
+    width: 75%;
+    height: auto;
+    margin: 0px auto;
+}
+
 .secondary-header{
     text-align: center;
 }
@@ -128,10 +135,36 @@ body{
     font-size: 20px;
 }
 
+.form-position{
+    display: block;
+    margin: 15px auto;
+    max-width: 50%;
+}
+
+.btn-form{
+    display: block;
+    margin: 10px auto;
+    background-color: #ee0000;
+    color: white;
+}
+
+.form-control{
+    margin: 5px;
+}
+
+.form-position a:hover{
+    text-decoration: none;
+    color: white;
+}
+
 /*-----------------------------------------------Media Queries*/
 
 @media (max-width:768px) {
-    .circuit-images, .team-images {
+    .circuit-images, .team-images, .driver-images{
         height: 50%;
+    }
+    
+    .form-position{
+        max-width: 75%;
     }
 }
