@@ -5,8 +5,11 @@ I have created a Formula One fan page with some information about the circuits, 
 ## Target Audience and Functionality
 
 To provide any persons who are unfamiliar with the sport a little description of the sport and some basic, uncomplicated information to attract them.
+
 To provide any existing fans of the sport some topical information about their favourite circuits/drivers/teams in an easy to read format to avoid accessing from multiple sources.
+
 Also provides a direct link to all social media sources for the sport across various platforms (Facebook, Instagram, Twitter, Youtube, Official website).
+
 
 ## Criteria
 
@@ -42,10 +45,15 @@ Guideleines from the Codeinstitute:
 ## Testing
 
 **Chrome** - Functions/Links/Contact/Video/Audio - Passed 
+
 **Firefox** - Functions/Links/Contact/Video/Audio - Passed
+
 **Edge** - Functions/Links/Contact/Video/Audio - Passed
+
 **Opera** - Functions/Links/Contact/Video/Audio - Passed
+
 **Safari** - Unable to test - N/A
+
 
 # Author
 
