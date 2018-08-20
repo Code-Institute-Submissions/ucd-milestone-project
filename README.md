@@ -100,10 +100,15 @@ height of the video to change in line with the width inherited form the video it
  I used the criteria below:
  
  *Functions* - Ensuring the navbar and internal exploration worked
+ 
  *Links* - All links go to correct pages with a new window if it's an external page
+ 
  *Contact* - That the contact form only progresses with correct input
+ 
  *Audio* - That the audio playback and audio controls all work
+ 
  *Video* - That the video plays and the controls all work
+ 
 
 Browser | Functions | Links | Contact | Audio | Video
 --- | --- | --- | --- | --- | --- 
