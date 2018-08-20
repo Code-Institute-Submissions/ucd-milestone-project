@@ -19,8 +19,8 @@ Guideleines from the Codeinstitute:
 
 I have created a Formula One fan page with some information about the circuits, drivers and teams, because of my love of the sport.
 
-The Official Formula one website is very detailed and complex and people unfamiliar with the sport may be confused by all the information it contains. Because I am a huge fan of the sport and there is much media sources online it was very
-easy for me to formulate ideas and find assets allowing me to simplify the site as much as possible and make it and easy user experience for any visitors to the page. 
+The Official Formula one website is very detailed and complex and people unfamiliar with the sport may be confused by all the information it contains. Because I am a huge fan of the sport and there are much media sources online it was very
+easy for me to formulate ideas and find assets allowing me to simplify the site as much as possible and make it an easy user experience for any visitors to the page. 
 
 ## Target Audience and Functionality
 
@@ -65,7 +65,7 @@ I opted to try and keep the styling as simple as possible and easy to look at wh
 
 The red colouring used is the offical F1 red and the rest of the colours were chosen for the background and texts as I feel these complemented the design very well and did not clash, keeping the screen less busy.
 
-Mobile first responsive design was used implementing bootstrap where necessary for all pages to ensure fluid movements on various screen sizes and this was tested in the chrom dev tools and on my own andorid smartphone.
+Mobile first responsive design was used implementing bootstrap where necessary for all pages to ensure fluid movements on various screen sizes and this was tested in the chrome dev tools and on my own android smartphone.
 
 
 ## Challenges
@@ -74,7 +74,7 @@ I faced challenges when writing this code. Firstly the adjustments ot the nav ba
 This was a complicated piece of coding that took longer than expected so maybe should have a way to simplify this in future.
 
 Second challenge I faced was to make the embedded video responsive whilst still mainting its aspect ratio. Normal bootstrap coding caused the static image of the video to be under-sized and also resulted in the "black lines"
-around the vide changing vertically and horizontally depending on the screen-size. I overcame this by using a ratio calculator with the CSS that I found from an outside source and adapted to fit my sites purpose.
+around the video changing vertically and horizontally depending on the screen-size. I overcame this by using a ratio calculator with the CSS that I found from an outside source and adapted to fit my sites purpose.
 Documentation for that can be found [here](https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php).
 
 
@@ -105,3 +105,4 @@ Simon Law
 * Wikipedia
 * Bootstrap
 * Google Fonts
+* Senna interview audio came from converting this [video](https://www.youtube.com/watch?v=ko94oniszuA) into MP3 audio at [FLVTO](https://www.flvto.com)
