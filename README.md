@@ -82,31 +82,37 @@ Mobile first responsive design was used implementing bootstrap where necessary f
 
 ## Challenges
 
-I faced challenges when writing this code. Firstly the adjustments ot the nav bar for changing the colours and making it responsive for the "hamburger" to appear. I overcame this by using the bootstrap website for further tricks with the navbars.
-This was a complicated piece of coding that took longer than expected so maybe should have a way to simplify this in future.
+I faced challenges when writing this code. Firstly the adjustments ot the nav bar for changing the colours and making it responsive for the "hamburger" to appear. I overcame this by adapting the bootstrap CSS to fit my own needs, and
+restructuring the *DIVS*.
 
 Second challenge I faced was to make the embedded video responsive whilst still mainting its aspect ratio. Normal bootstrap coding caused the static image of the video to be under-sized and also resulted in the "black lines"
-around the video changing vertically and horizontally depending on the screen-size. I overcame this by using a ratio calculator with the CSS that I found from an outside source and adapted to fit my sites purpose.
-Documentation for that can be found [here](https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php).
+around the video changing vertically and horizontally depending on the screen-size. I overcame this by using a ratio calculator with the CSS that I found from an outside source and adapted to fit my sites purpose. This CSS allows the
+height of the video to change in line with the width inherited form the video itself and adapts to any screen size. Documentation for that can be found [here](https://css-tricks.com/NetMag/FluidWidthVideo/Article-FluidWidthVideo.php).
 
 
 ## Testing
 
 
+ For the testing phase I used my own desktop PC with various browsers and my android smartphone.
+ 
+ I tested the responsive of the design by re-sizing the browser windows on the desktop as one of my challenges I faced was ensuring that the video would maintain its aspect ratio (16:9) when being re-sized on various screens.
+ 
+ I used the criteria below:
+ 
+ *Functions* - Ensuring the navbar and internal exploration worked
+ *Links* - All links go to correct pages with a new window if it's an external page
+ *Contact* - That the contact form only progresses with correct input
+ *Audio* - That the audio playback and audio controls all work
+ *Video* - That the video plays and the controls all work
+
 Browser | Functions | Links | Contact | Audio | Video
 --- | --- | --- | --- | --- | --- 
 **Chrome** | Pass | Pass | Pass | Pass | Pass
-
-
-**Chrome** - Functions/Links/Contact/Video/Audio - Passed 
-
-**Firefox** - Functions/Links/Contact/Video/Audio - Passed
-
-**Edge** - Functions/Links/Contact/Video/Audio - Passed
-
-**Opera** - Functions/Links/Contact/Video/Audio - Passed
-
-**Safari** - Unable to test - N/A
+**Firefox** | Pass | Pass | Pass | Pass | Pass
+**Edge** | Pass | Pass | Pass | Pass | Pass
+**Opera** | Pass | Pass | Pass | Pass | Pass
+**Safari** | Pass | Pass | Pass | Pass | Pass 
+**Mobile** | Pass | Pass | Pass | Pass | Pass
 
 
 # Author
