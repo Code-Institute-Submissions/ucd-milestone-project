@@ -30,16 +30,27 @@ Guideleines from the Codeinstitute:
 
 **Homepage**
 
-![Site Homepage](md-images/Web 1920 - 1.jpg "Homepage")
+![Site Homepage](assets/md-images/Web 1920 - 1.jpg "Homepage")
 
 **Circuits Page**
 
-![Circuits page mockup](md-images/Web 1920 - 2.jpg "Circuits")
+![Circuits page mockup](assets/md-images/Web 1920 - 2.jpg "Circuits")
 
 **Teams Page**
 
-![Teams page mockup](md-images/Web 1920 - 3.jpg "Teams")
+![Teams page mockup](assets/md-images/Web 1920 - 3.jpg "Teams")
 
+**Drivers page**
+
+![Drivers page mockup](assets/md-images/Web 1920 - 4.jpg "Drivers")
+
+**Contact page**
+
+![Contact page mockup](assets/md-images/Web 1920 - 5.jpg "Contact")
+
+**Thanks page**
+
+![Thanks page mockup](assets/md-images/Web 1920 - 6.jpg "Thanks")
 
 
 ## Testing
