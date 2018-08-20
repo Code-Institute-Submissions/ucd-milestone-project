@@ -37,27 +37,39 @@ For the design process I used **ADOBE XD** to create some simple wireframe mocku
 
 **Homepage**
 
+
 ![Site Homepage](md-images/Homepage.jpg "Homepage")
+
 
 **Circuits Page**
 
+
 ![Circuits page mockup](md-images/Circuits.jpg "Circuits")
+
 
 **Teams Page**
 
+
 ![Teams page mockup](md-images/Teams.jpg "Teams")
+
 
 **Drivers page**
 
+
 ![Drivers page mockup](md-images/Drivers.jpg "Drivers")
+
 
 **Contact page**
 
+
 ![Contact page mockup](md-images/Contact.jpg "Contact")
+
 
 **Thanks page**
 
+
 ![Thanks page mockup](md-images/Thanks.jpg "Thanks")
+
 
 ## Styling
 
@@ -79,6 +91,12 @@ Documentation for that can be found [here](https://css-tricks.com/NetMag/FluidWi
 
 
 ## Testing
+
+
+Browser | Functions | Links | Contact | Audio | Video
+--- | --- | --- | --- | --- | --- 
+**Chrome** | Pass | Pass | Pass | Pass | Pass
+
 
 **Chrome** - Functions/Links/Contact/Video/Audio - Passed 
 
